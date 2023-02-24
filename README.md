@@ -1,6 +1,6 @@
 
 <h1>
- Mozo hacks - The binary bosses
+ #Mozo hacks - The binary bosses
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -48,11 +48,11 @@ reviews to be displayed on the portal.
 </h4>
 
 <h6>
-:woman_technologist: <strong>Frontend</strong> Flutter
+:woman_technologist: <b>Frontend</b> Flutter
 <br>
-:woman_technologist: <strong>Backend</strong> Pyhton
+:woman_technologist: <b>Backend</b> Pyhton
 <br>
-:woman_technologist:<strong>ML Model</strong> Python
+:woman_technologist:<b>ML Model</b> Python
 <br>
 </h6>
 
