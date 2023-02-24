@@ -67,7 +67,7 @@ reviews to be displayed on the portal.
 <h6>
 :woman_technologist: <b>Frontend</b> Flutter
 <br>
-:woman_technologist: <b>Backend</b> Pyhton
+:woman_technologist: <b>Backend</b> Python
 <br>
 :woman_technologist:<b>ML Model</b> Python
 <br>
