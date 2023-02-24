@@ -2,8 +2,8 @@
 
 import 'package:flutter/material.dart';
 // import 'mainScreen.dart';
-import 'homePg.dart';
-// import 'explorePg.dart';
+
+import 'contentPg.dart';
 import 'searchPg.dart';
 import 'accountPg.dart';
 
@@ -58,6 +58,78 @@ class _HomePageState extends State<HomePage>
             icon: Icon(Icons.circle),
             label: "Profile",
           )
+        ],
+      ),
+    );
+  }
+}
+
+class Home extends StatefulWidget {
+  const Home({super.key});
+
+  @override
+  State<Home> createState() => _HomeState();
+}
+
+class _HomeState extends State<Home> {
+  final myController = TextEditingController();
+  @override
+  void dispose() {
+    myController.dispose();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return SafeArea(
+      child: Column(
+        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+        children: [
+          Text(
+            "Say goodbye to scouring multiple websites for reviews and hello to a one-stop-shop for all your review needs. \nIntroducing The Review Room!",
+            style: TextStyle(
+              fontFamily: 'work_Sans',
+              fontSize: 20,
+              fontWeight: FontWeight.w800,
+            ),
+            textAlign: TextAlign.center,
+          ),
+          Text(
+            "Try it out Yourself",
+            style: TextStyle(
+              fontFamily: 'work_Sans',
+              fontSize: 30,
+              fontWeight: FontWeight.w800,
+            ),
+            textAlign: TextAlign.center,
+          ),
+          Container(
+            height: 60,
+            margin: EdgeInsets.all(5),
+            decoration: BoxDecoration(
+                borderRadius: BorderRadius.all(Radius.circular(30))),
+            child: Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: TextField(
+                controller: myController,
+                decoration: InputDecoration(
+                  filled: true,
+                  fillColor: Color.fromARGB(255, 94, 85, 192),
+                  suffixIcon: IconButton(
+                      onPressed: () {
+                        Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                                builder: (context) => Contents()));
+                      },
+                      icon: Icon(Icons.search)),
+                  border: OutlineInputBorder(
+                      borderRadius: BorderRadius.all(Radius.circular(15))),
+                  label: Text("Search"),
+                ),
+              ),
+            ),
+          ),
         ],
       ),
     );
