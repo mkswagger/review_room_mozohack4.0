@@ -20,6 +20,23 @@ them.
 </h6>
 
 <h4 >
+ <h4 >
+
+Our Solution:
+
+</h4>
+
+
+
+<h6>
+
+Our solution is to create an app portal that aggregates and displays reviews from multiple sources in one place. This portal would function as a centralised platform for consumers to access and compare reviews, making it easier for them to make informed purchasing decisions.
+
+</h6>
+
+
+
+<h4 >
  Features :
 </h4>
 
