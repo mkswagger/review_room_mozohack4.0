@@ -59,5 +59,5 @@ reviews to be displayed on the portal.
 
 
 <h4>ML MODEL</h4>
- <div><img src = "mozo-hacks-img/img1"></img></div>
+ <div><img src = "https://github.com/mkswagger/review_room_mozohack4.0/blob/main/mozo-hacks-img/img1.jpeg?raw=true"></img></div>
 
