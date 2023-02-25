@@ -68,19 +68,19 @@ reviews to be displayed on the portal.
 
 <div id="badges">
   <a href="#">
-    <img src="https://cdn-icons-png.flaticon.com/512/2882/2882487.png" alt="Flutter Badge"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2882/2882487.png" alt="Flutter Badge" style="width:200px; height:200px/>
   </a>
   <br>
   <a href="#">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python Badge"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python Badge" style="width:200px; height:200px/>
   </a>
   <br>
   <a href="#">
-    <img src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" alt="Dart"/>
+    <img src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" alt="Dart" style="width:200px; height:200px/>
   </a>
   <br>
   <a href="#">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Nodejs"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Nodejs" style="width:200px; height:200px/>
   </a>
 </div>
 
