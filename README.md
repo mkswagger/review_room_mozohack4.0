@@ -110,4 +110,5 @@ reviews to be displayed on the portal.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" style="width:50px; height:50px/>
 
   </a>
+ </div>
 
