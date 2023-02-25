@@ -76,8 +76,7 @@ reviews to be displayed on the portal.
     <img src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" alt="Dart" style="width:50px; height:50px/>
   </a>
   <br>
-  <a href="#">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Nodejs" style="width:50px; height:50px/>
-  </a>
+                                 
+  
 </div>
 
