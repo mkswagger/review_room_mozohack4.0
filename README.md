@@ -1,14 +1,9 @@
 # mozo_hack
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-<<<<<<< HEAD
-A few resources to get you started if this is your first Flutter project:
-=======
+<h1>The Binary Bosses
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<br>
 <h4 >
  Problem Statement:
 </h4>
@@ -70,26 +65,19 @@ reviews to be displayed on the portal.
 
 <div id="badges">
   <a href="#">
-    <img src="https://cdn-icons-png.flaticon.com/512/2882/2882487.png" alt="Flutter Badge" style="width:100px; height:100px/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2882/2882487.png" alt="Flutter Badge" style="width:50px; height:50px/>
   </a>
   <br>
   <a href="#">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python Badge" style="width:100px; height:100px/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python Badge" style="width:50px; height:50px/>
   </a>
   <br>
   <a href="#">
-    <img src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" alt="Dart" style="width:100px; height:100px/>
+    <img src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" alt="Dart" style="width:50px; height:50px/>
   </a>
   <br>
   <a href="#">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Nodejs" style="width:100px; height:100px/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Nodejs" style="width:50px; height:50px/>
   </a>
 </div>
->>>>>>> e60a61d28101b9b5c88e8b7de817b3231b6cd3b4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
