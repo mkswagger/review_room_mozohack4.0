@@ -59,5 +59,5 @@ reviews to be displayed on the portal.
 
 
 <h4>ML MODEL</h4>
- <div>blob:https://web.whatsapp.com/96a3acb9-d666-405d-9596-e578adfe7b6b</div>
+ <div><img src = "mozo-hacks-img/img1"></img></div>
 
