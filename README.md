@@ -78,7 +78,7 @@ reviews to be displayed on the portal.
   <br>
    <a href="#">
 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" style="width:50px; height:50px/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" style="width:50px; height:50px"/>
 
 
   </a>                                                                                       
