@@ -77,7 +77,7 @@ reviews to be displayed on the portal.
   </a>
   <br>
   <a href="#">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Nodejs" style="width:50px; height:50px/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" style="width:50px; height:50px/>
   </a>
 </div>
 
