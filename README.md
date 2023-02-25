@@ -76,13 +76,7 @@ reviews to be displayed on the portal.
     <img src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" alt="Dart" style="width:50px; height:50px/>
   </a>
   <br>
-   <a href="#">
-
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" style="width:50px; height:50px"/>
-
-
-  </a>                                                                                       
-                                        
+                                 
   
 </div>
 
