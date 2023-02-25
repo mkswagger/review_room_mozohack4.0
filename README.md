@@ -64,13 +64,24 @@ reviews to be displayed on the portal.
  Tech Stacks:
 </h4>
 
-<h6>
-:woman_technologist: <b>Frontend</b> Flutter
-<br>
-:woman_technologist: <b>Backend</b> Python
-<br>
-:woman_technologist:<b>ML Model</b> Python
-<br>
-</h6>
+
+
+<div id="badges">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Flutter-24688E?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Flutter Badge"/>
+  </a>
+  <br>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Python-ca335c?style=for-the-badge&logo=Instagram&logoColor=white" alt="Python Badge"/>
+  </a>
+  <br>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Dart-333333?style=for-the-badge&logo=GitHub&logoColor=white" alt="Dart"/>
+  </a>
+  <br>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Nodejs-FFA500?style=for-the-badge&logo=GitHub&logoColor=white" alt="Nodejs"/>
+  </a>
+</div>
 
 
