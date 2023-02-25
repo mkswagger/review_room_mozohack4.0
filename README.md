@@ -1,4 +1,4 @@
-# mozo_hack
+# The Review Room.
 
 <h1>The Binary Bosses
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -67,48 +67,15 @@ reviews to be displayed on the portal.
  
  <h4>
  Tech Stacks:
-
 </h4>
+<h6>
+- :zap:Flutter
+- :zap:Dart
+- :zap:NodeJs
+- :zap:Python
+</h6>
 
 
-<div id="badges">
 
-  <a href="#">
 
-    <img src="https://cdn-icons-png.flaticon.com/512/2882/2882487.png" alt="Flutter Badge" style="width:50px; height:50px/>
-
-  </a>
-
-  <br>
-
-  <a href="#">
-
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python Badge" style="width:50px; height:50px/>
-
-  </a>
-
-  <br>
-
-  <a href="#">
-
-    <img src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" alt="Dart" style="width:50px; height:50px/>
-
-  </a>
-
-  <br>
-
-  <a href="#">
-
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="node" style="width:50px; height:50px/>
-
-  </a>
-
- <br>
-
-  <a href="#">
-
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" style="width:50px; height:50px/>
-
-  </a>
- </div>
 
